@@ -28,7 +28,7 @@ The following features are currently functional:
 - Interpreter: Voice recognition is not working. Text input functions as expected.
 - Uninstallation: The uninstall script may not fully restore the functionality of affected system applications. Some applications may remain unusable or continue to crash after removal.
 - Bug with lockscreen media player placement.
-- SurfaceFlinger may shows SSRM warning, still need investigating.
+- SurfaceFlinger may shows SSRM warning, still need investigating. Press on "I got it" will make it go away.
   
 # Requirements
 
