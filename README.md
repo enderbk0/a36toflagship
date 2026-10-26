@@ -14,6 +14,7 @@ The following features are currently functional:
 - Photo Assist
 - Creative Studio
 - Now Brief
+- AOD wallpaper and clock transition
 
 **Additional content**
 
@@ -26,6 +27,7 @@ The following features are currently functional:
 - Now Nudge: Available in the system but not yet tested.
 - Interpreter: Voice recognition is not working. Text input functions as expected.
 - Uninstallation: The uninstall script may not fully restore the functionality of affected system applications. Some applications may remain unusable or continue to crash after removal.
+- Bug with lockscreen media player placement.
 
 # Requirements
 
