@@ -29,7 +29,14 @@ The following features are currently functional:
 - Uninstallation: The uninstall script may not fully restore the functionality of affected system applications. Some applications may remain unusable or continue to crash after removal.
 - Bug with lockscreen media player placement.
 - SurfaceFlinger may shows SSRM warning, still need investigating. Press on "I got it" will make it go away.
-  
+
+# TODO
+
+- [ ] Fix clock blur filling the entire lock screen.
+- [ ] Fix AOD wallpaper not disappearing when Always On Display is turned off.
+- [ ] Enable Weather app animations.
+- [ ] Explore possible Notification Highlights support.
+- [ ] Fixing Know Issues.
 # Requirements
 
 - Samsung Galaxy A36 5G
