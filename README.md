@@ -32,7 +32,7 @@ The following features are currently functional:
 
 # TODO
 
-- [ ] Fix clock blur filling the entire lock screen. (not fixable for now)
+- [ ] ~~Fix clock blur filling the entire lock screen.~~ (not fixable for now)
 - [ ] Fix AOD wallpaper not disappearing when Always On Display is turned off.
 - [ ] Enable Weather app animations.
 - [ ] Explore possible Notification Highlights support.
