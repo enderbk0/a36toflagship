@@ -32,11 +32,13 @@ The following features are currently functional:
 
 # TODO
 
-- [ ] Fix clock blur filling the entire lock screen.
+- [x] Fix clock blur filling the entire lock screen. (not fixable for now)
 - [ ] Fix AOD wallpaper not disappearing when Always On Display is turned off.
 - [ ] Enable Weather app animations.
 - [ ] Explore possible Notification Highlights support.
+- [ ] Fix issues reported in [GitHub Issues](https://github.com/enderbk0/a36toflagship/issues).
 - [ ] Fixing Know Issues.
+
 # Requirements
 
 - Samsung Galaxy A36 5G
