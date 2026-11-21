@@ -34,8 +34,8 @@ The following features are currently functional:
 
 - [ ] ~~Fix clock blur filling the entire lock screen.~~ (not fixable for now)
 - [ ] Fix AOD wallpaper not disappearing when Always On Display is turned off.
-- [ ] Enable Weather app animations.
-- [ ] Explore possible Notification Highlights support.
+- [x] Enable Weather app animations.
+- [x] Explore possible Notification Highlights support. (untested)
 - [ ] Fix issues reported in [GitHub Issues](https://github.com/enderbk0/a36toflagship/issues).
 - [ ] Fixing Know Issues.
 
